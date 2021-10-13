@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/dom-crawler": "^5.3",
+        "symfony/css-selector": "^5.3",
+        "rap2hpoutre/fast-excel": "^3.0",
+        "spatie/ssl-certificate": "^1.22"
+    }
+}
